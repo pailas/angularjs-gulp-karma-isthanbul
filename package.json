@@ -1,0 +1,33 @@
+{
+  "name": "ng_grunt_karma_jasmine_typescript",
+  "description": "Migrating AngularJS 1.x to typescript with Gulp Karma Jasmine setup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pailas/AngularJS-Jasmine-Karma.git"
+  },
+  "dependencies": {
+    "angular": "~1.6.7",
+    "angular-animate": "~1.6.7",
+    "angular-mocks": "~1.6.7",
+    "angular-resource": "~1.6.7",
+    "angular-route": "~1.6.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-open": "^2.0.0",
+    "jasmine-core": "^2.8.0",
+    "jquery": "^3.2.1",
+    "karma": ">=1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.1",
+    "karma-phantomjs-launcher": "^1.0.4",
+    "karma-safari-launcher": "^1.0.0",
+    "karma-xml-reporter": "^0.1.4"
+  },
+  "authors": [
+    "Srinivas Paila"
+  ],
+  "license": "MIT"
+}
